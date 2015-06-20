@@ -1,3 +1,4 @@
 This is feature2 // comment from clone 2
 New line
 New line
+New line
