@@ -1,1 +1,2 @@
-This is feature2
+This is feature2 // comment from clone 2
+This is clone #2 changing feature 2
