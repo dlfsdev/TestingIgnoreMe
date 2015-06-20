@@ -3,3 +3,4 @@ Here is some more of it
 New line
 New line
 New line
+New line with corresponding extern change
