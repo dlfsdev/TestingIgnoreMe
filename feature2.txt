@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is feature2 // comment from clone 2
 This is clone #2 changing feature 2
+=======
+This is feature2
+Here is more
+>>>>>>> a6ef09b4bd226566982f1e20ceccd167839692fb
